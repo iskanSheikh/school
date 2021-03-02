@@ -42,12 +42,12 @@ After seeding. Login details as follows:
 
 | Account Type  | Username | Email | Password |
 | ------------- | -------- | ----- | -------- |
-| Super Admin | cj | cj@cj.com | cj |
-|  Admin | admin | admin@admin.com | cj |
-|  Teacher | teacher | teacher@teacher.com | cj |
-|  Parent | parent | parent@parent.com | cj |
-|  Accountant | accountant | accountant@accountant.com | cj |
-|  Student | student | student@student.com | cj |
+| Super Admin | super admin | superadmin@gmail.com | 12345 |
+|  Admin | admin | admin@admin.com | 12345 |
+|  Teacher | teacher | teacher@teacher.com | 12345 |
+|  Parent | parent | parent@parent.com | 12345 |
+|  Accountant | accountant | accountant@accountant.com | 12345 |
+|  Student | student | student@student.com | 12345 |
 
 #### **FUNCTIONS OF ACCOUNTS** 
 
@@ -98,13 +98,5 @@ After seeding. Login details as follows:
 - View noticeboard and school events in calendar
 - Manage own profile
 
-### **Contributing**
 
-Your Contributions & suggestions are welcomed.
 
-### **Security Vulnerabilities**
-
-If you discover a security vulnerability within LAVSMS, please use pull request. All security vulnerabilities will be promptly addressed.
-
-### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
